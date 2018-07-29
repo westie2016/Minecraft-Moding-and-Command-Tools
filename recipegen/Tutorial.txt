@@ -1,0 +1,1 @@
+When making a recipe the only character that dosent ask fo a key when you enter it is a spac, so use that for empty spaces in the recipe pattern.
